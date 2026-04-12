@@ -1,0 +1,10 @@
+{application,alara_uuid,
+             [{description,"High-quality UUID generation for Erlang with distributed entropy powered by ALARA."},
+              {vsn,"0.1.3"},
+              {registered,[]},
+              {applications,[kernel,stdlib,alara]},
+              {env,[]},
+              {modules,[alara_uuid]},
+              {licenses,["Apache-2.0"]},
+              {links,[{"GitHub","https://github.com/Green-Mice/alara_uuid"},
+                      {"Documentation","https://hexdocs.pm/alara_uuid/"}]}]}.
