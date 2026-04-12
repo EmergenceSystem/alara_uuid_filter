@@ -1,8 +1,0 @@
-{"1.2.0",
-[{<<"alara">>,{pkg,<<"alara">>,<<"0.1.7">>},0}]}.
-[
-{pkg_hash,[
- {<<"alara">>, <<"7FE119741E70BDFFE1C7870324B3D58B8D6D79185E2C17EC58F7AE6374B52CFA">>}]},
-{pkg_hash_ext,[
- {<<"alara">>, <<"6E38F6855582648E4BAA4C4B94637FD5DFE56C6E8F295B2E1820254FDEF2389F">>}]}
-].
